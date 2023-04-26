@@ -5,9 +5,9 @@ public class Main {
         int Stage = 0;
 
         Team[] team = new Team[3];
-        team[0] = new Cat(1000,221, "Morris");
+        team[0] = new Cat(1000,221, "Lesha");
         team[1] = new Human(3020,120, "Oleg");
-        team[2] = new Robot(30000,130, "iHorse");
+        team[2] = new Robot(30000,130, "TeslaBot");
 
         Treadmill treadmill = new Treadmill(3001);
         Wall wall = new Wall(200);
