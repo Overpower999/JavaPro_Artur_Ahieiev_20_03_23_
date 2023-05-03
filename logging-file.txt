@@ -1,0 +1,4 @@
+FILE: ./src/homework9/log.txt
+LEVEL: DEBAG
+MAX-SIZE: 20
+FORMAT: [TIME] [LEVEL] [THREAD] - [MESSAGE]

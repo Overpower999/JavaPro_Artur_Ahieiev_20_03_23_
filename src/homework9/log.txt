@@ -1,0 +1,4 @@
+23:52 03.05.2023 INFO main - info message
+23:52 03.05.2023 DEBAG main - debug message
+00:01 04.05.2023 INFO main - info message
+00:01 04.05.2023 DEBAG main - debug message
