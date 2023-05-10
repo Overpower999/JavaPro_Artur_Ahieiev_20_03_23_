@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f44587b-0bb2-4f89-b5ff-f002dda408c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework10/ValueCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework10/ValueCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework10/ValueCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +58,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.ValueCalculator">
-    <configuration name="ArrayValueCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework7.ArrayValueCalculator" />
+    <configuration name="ValueCalculator (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework10.ValueCalculator" />
       <module name="JavaPro_Artur_Ahieiev_20_03_23_" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework7.*" />
+          <option name="PATTERN" value="homework10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +71,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework7.Main" />
+    <configuration name="ValueCalculator (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework10.ValueCalculator" />
       <module name="JavaPro_Artur_Ahieiev_20_03_23_" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework7.*" />
+          <option name="PATTERN" value="homework10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValueCalculator (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework10.ValueCalculator" />
+      <module name="JavaPro_Artur_Ahieiev_20_03_23_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValueCalculator (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework10.ValueCalculator" />
+      <module name="JavaPro_Artur_Ahieiev_20_03_23_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,39 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework8.Main" />
-      <module name="JavaPro_Artur_Ahieiev_20_03_23_" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework9.Main" />
-      <module name="JavaPro_Artur_Ahieiev_20_03_23_" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ValueCalculator" />
-        <item itemvalue="Application.ArrayValueCalculator" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.homework9.Main" />
-        <item itemvalue="Application.homework8.Main" />
+        <item itemvalue="Application.ValueCalculator (5)" />
+        <item itemvalue="Application.ValueCalculator (4)" />
+        <item itemvalue="Application.ValueCalculator (3)" />
+        <item itemvalue="Application.ValueCalculator (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +144,7 @@
       <workItem from="1681976041525" duration="7446000" />
       <workItem from="1682352217006" duration="646000" />
       <workItem from="1682496944629" duration="3768000" />
+      <workItem from="1683743314938" duration="2671000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <created>1681980062512</created>
@@ -166,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681980120944</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Homework 10">
+      <created>1683621707690</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683621707690</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +220,7 @@
     <MESSAGE value="gitignore" />
     <MESSAGE value="System file" />
     <MESSAGE value="Homework 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 7" />
+    <MESSAGE value="Homework 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 10" />
   </component>
 </project>

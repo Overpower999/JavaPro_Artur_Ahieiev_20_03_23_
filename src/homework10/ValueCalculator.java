@@ -15,7 +15,7 @@ public class ValueCalculator {
         return arr;
     }
 
-    public void runArrayCalculate() {
+    public void runArrayCalculate() throws InterruptedException {
         long start = System.currentTimeMillis();
         float[] array2 = new float[halfSize];
         float[] array3 = new float[halfSize];
@@ -23,24 +23,35 @@ public class ValueCalculator {
         System.arraycopy(array, 0, array2, 0, halfSize);
         System.arraycopy(array, halfSize, array3, 0, halfSize);
 
-        new Thread() {
+        Thread thread1 = new Thread(new Runnable() {
+            @Override
             public void run() {
                 float[] a = calculate(array2);
                 System.arraycopy(a, 0, array2, 0, a.length);
             }
-        }.start();
-        new Thread() {
+
+        });
+        thread1.start();
+        thread1.join();
+
+        Thread thread2 = new Thread(new Runnable() {
+            @Override
             public void run() {
                 float[] a2 = calculate(array3);
                 System.arraycopy(a2, 0, array3, 0, a2.length);
             }
-        }.start();
+        });
+        thread2.start();
+        thread2.join();
+
+
         System.arraycopy(array2, 0, array, 0, array2.length);
         System.arraycopy(array3, 0, array, halfSize, halfSize);
+
         System.out.println(System.currentTimeMillis() - start);
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         ValueCalculator valueCalculator = new ValueCalculator();
         valueCalculator.runArrayCalculate();
     }
