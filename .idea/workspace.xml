@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f44587b-0bb2-4f89-b5ff-f002dda408c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework_11/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_11/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_11/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework_11/Orange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9f44587b-0bb2-4f89-b5ff-f002dda408c8" name="Changes" comment="Homework 11">
+      <change afterPath="$PROJECT_DIR$/src/homework12/ListWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework12/phonebook/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework12/phonebook/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework12/phonebook/Record.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,29 +59,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="homework12" />
       <recent name="homework8.art2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.homework12.phonebook.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework_11.Main" />
       <module name="JavaPro_Artur_Ahieiev_20_03_23_" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework_11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValueCalculator (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework10.ValueCalculator" />
-      <module name="JavaPro_Artur_Ahieiev_20_03_23_" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homework12.phonebook.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework12.phonebook.Main" />
+      <module name="JavaPro_Artur_Ahieiev_20_03_23_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework12.phonebook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.homework12.phonebook.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ValueCalculator" />
         <item itemvalue="Application.ValueCalculator (5)" />
         <item itemvalue="Application.ValueCalculator (4)" />
-        <item itemvalue="Application.ValueCalculator (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683621707690</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Homework 11">
+      <created>1684423896755</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1684423896755</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +239,7 @@
     <MESSAGE value="System file" />
     <MESSAGE value="Homework 7" />
     <MESSAGE value="Homework 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 10" />
+    <MESSAGE value="Homework 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 11" />
   </component>
 </project>
