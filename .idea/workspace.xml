@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f44587b-0bb2-4f89-b5ff-f002dda408c8" name="Changes" comment="Homework 11">
-      <change afterPath="$PROJECT_DIR$/src/homework12/ListWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework12/phonebook/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework12/phonebook/PhoneBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework12/phonebook/Record.java" afterDir="false" />
+    <list default="true" id="9f44587b-0bb2-4f89-b5ff-f002dda408c8" name="Changes" comment="Homework 12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684423896755</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Homework 12">
+      <created>1684649617005</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684649617005</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +242,7 @@
     <MESSAGE value="Homework 7" />
     <MESSAGE value="Homework 10" />
     <MESSAGE value="Homework 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 11" />
+    <MESSAGE value="Homework 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 12" />
   </component>
 </project>
