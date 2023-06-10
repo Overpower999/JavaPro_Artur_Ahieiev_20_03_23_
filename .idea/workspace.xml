@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f44587b-0bb2-4f89-b5ff-f002dda408c8" name="Changes" comment="Homework 13">
-      <change afterPath="$PROJECT_DIR$/src/homework15/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework15/Product.java" afterDir="false" />
+    <list default="true" id="9f44587b-0bb2-4f89-b5ff-f002dda408c8" name="Changes" comment="Homework 15">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -205,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685376984710</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Homework 15">
+      <created>1686402966195</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1686402966195</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +266,7 @@
     <MESSAGE value="Homework 12" />
     <MESSAGE value="Homework 14" />
     <MESSAGE value="Homework 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 13" />
+    <MESSAGE value="Homework 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 15" />
   </component>
 </project>
