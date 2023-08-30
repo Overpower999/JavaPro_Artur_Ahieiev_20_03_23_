@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f44587b-0bb2-4f89-b5ff-f002dda408c8" name="Changes" comment="Homework 16" />
+    <list default="true" id="9f44587b-0bb2-4f89-b5ff-f002dda408c8" name="Changes" comment="Sys file">
+      <change afterPath="$PROJECT_DIR$/src/homework19/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework19/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework19/TestRunneers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework19/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +62,7 @@
       <recent name="homework8.art2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework12.phonebook.Main">
+  <component name="RunManager" selected="Application.TestRunner">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework_11.Main" />
       <module name="JavaPro_Artur_Ahieiev_20_03_23_" />
@@ -70,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValueCalculator (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework10.ValueCalculator" />
+    <configuration name="TestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework19.TestRunner" />
       <module name="JavaPro_Artur_Ahieiev_20_03_23_" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework10.*" />
+          <option name="PATTERN" value="homework19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestRunner" />
         <item itemvalue="Application.homework12.phonebook.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ValueCalculator" />
         <item itemvalue="Application.ValueCalculator (5)" />
-        <item itemvalue="Application.ValueCalculator (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686404286353</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Sys file">
+      <created>1693387588114</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693387588114</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +286,7 @@
     <MESSAGE value="Homework 13" />
     <MESSAGE value="Homework 15" />
     <MESSAGE value="Homework 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 16" />
+    <MESSAGE value="Sys file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sys file" />
   </component>
 </project>
