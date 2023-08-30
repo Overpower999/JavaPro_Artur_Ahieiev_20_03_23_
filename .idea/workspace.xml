@@ -4,12 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f44587b-0bb2-4f89-b5ff-f002dda408c8" name="Changes" comment="Sys file">
-      <change afterPath="$PROJECT_DIR$/src/homework19/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework19/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework19/TestRunneers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework19/TestRunner.java" afterDir="false" />
+    <list default="true" id="9f44587b-0bb2-4f89-b5ff-f002dda408c8" name="Changes" comment="Homework 19">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPro_Artur_Ahieiev_20_03_23_.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPro_Artur_Ahieiev_20_03_23_.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework10/ValueCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework10/ValueCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework12/ListWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework12/ListWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework12/phonebook/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework12/phonebook/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework12/phonebook/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework12/phonebook/PhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework12/phonebook/Record.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework12/phonebook/Record.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework13/FileData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework13/FileData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework13/FileNavigator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework13/FileNavigator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework13/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework13/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework14/order/CoffeeOrderBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework14/order/CoffeeOrderBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework14/order/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework14/order/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework14/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework14/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework15/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework15/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework15/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework16/QuickSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework16/QuickSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework16/ShakerSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework16/ShakerSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework19/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework19/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework19/TestRunneers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework19/TestRunneers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework19/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework19/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework7/ArrayDataException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework7/ArrayDataException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework7/ArraySizeExeption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework7/ArraySizeExeption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework7/ArrayValueCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework7/ArrayValueCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework8/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework8/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework8/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework8/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework8/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework8/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework8/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework8/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework8/art2/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework8/art2/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework8/art2/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework8/art2/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework8/art2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework8/art2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework8/art2/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework8/art2/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework8/art2/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework8/art2/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework8/art2/Treadmill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework8/art2/Treadmill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework8/art2/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework8/art2/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_11/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_11/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_11/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_11/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_11/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_11/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework_11/Orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homework_11/Orange.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693387588114</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Homework 19">
+      <created>1693388574440</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693388574440</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +332,7 @@
     <MESSAGE value="Homework 15" />
     <MESSAGE value="Homework 16" />
     <MESSAGE value="Sys file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sys file" />
+    <MESSAGE value="Homework 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 19" />
   </component>
 </project>
